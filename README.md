@@ -1,10 +1,10 @@
-# Micro-Attention-for-Micro-Expression
+# Micro-Attention for Micro-Expression Recognition
 
 Micro-Attention for Micro-Expression Recognition
 
 by Chongyang Wang, Min Peng.
 
-![alt text](mame.png "The overview of the network architecture")
+![alt text](attentionvisual.png "The overview of the network architecture")
 
 # Introduction
 
