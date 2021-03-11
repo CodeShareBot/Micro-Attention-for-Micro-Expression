@@ -4,7 +4,7 @@ Micro-Attention for Micro-Expression Recognition
 
 by Chongyang Wang, Min Peng.
 
-![alt text](MAME.png "The overview of the network architecture")
+![alt text](mame.png "The overview of the network architecture")
 
 # Introduction
 
