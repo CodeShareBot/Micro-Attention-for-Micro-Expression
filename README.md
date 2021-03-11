@@ -1,13 +1,15 @@
 # Micro-Attention-for-Micro-Expression
 
-Micro-Attention for Micro-Expression Recognition.
+Micro-Attention for Micro-Expression Recognition
 
 by Chongyang Wang, Min Peng.
+
+![alt text](MAME.png "The overview of the network architecture")
 
 # Introduction
 
 This repository contains the Micro Attention module described in the paper 
-"Micro-Attention for Micro-Expression recognition" (https://arxiv.org/abs/1811.02360). 
+Wang, Chongyang, Min Peng, Tao Bi, and Tong Chen. "[Micro-attention for micro-expression recognition](https://www.sciencedirect.com/science/article/pii/S0925231220309711?casa_token=VIyl7ia6eEcAAAAA:XkGZddukgVM7meBVASDJ0IPHCa_GMtn6FyTj_BF6rAMZngMN-EPyw_rOJe6MOSiOx8oBuDwaOo9E)", Neurocomputing 410 (2020)
 
 Micro-Attention outperformed the method described in the paper 
 "From Macro to Micro Expression Recognition: Deep Learning on Small Datasets Using Transfer Learning", 
