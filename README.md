@@ -8,7 +8,8 @@ by Chongyang Wang, Min Peng.
 
 # Introduction
 
-This repository contains the Micro Attention module described in the paper 
+This repository contains the Micro Attention module described in the paper
+
 Wang, Chongyang, Min Peng, Tao Bi, and Tong Chen. "[Micro-attention for micro-expression recognition](https://www.sciencedirect.com/science/article/pii/S0925231220309711?casa_token=VIyl7ia6eEcAAAAA:XkGZddukgVM7meBVASDJ0IPHCa_GMtn6FyTj_BF6rAMZngMN-EPyw_rOJe6MOSiOx8oBuDwaOo9E)", Neurocomputing 410 (2020)
 
 Micro-Attention outperformed the method described in the paper 
@@ -21,7 +22,7 @@ the latter one won the first place in the Facial Micro-Expression Grand Challeng
 
 If it is helpful, please cite:
 
-Micro-Attention for Micro-Expression recognition. Chongyang Wang, Min Peng, Tao Bi, Tong Chen. arXiv preprint arXiv:1811.02360, 2018
+Wang, Chongyang, Min Peng, Tao Bi, and Tong Chen. "[Micro-attention for micro-expression recognition](https://www.sciencedirect.com/science/article/pii/S0925231220309711?casa_token=VIyl7ia6eEcAAAAA:XkGZddukgVM7meBVASDJ0IPHCa_GMtn6FyTj_BF6rAMZngMN-EPyw_rOJe6MOSiOx8oBuDwaOo9E)", Neurocomputing 410 (2020)
 
 From Macro to Micro Expression Recognition: Deep Learning on Small Datasets Using Transfer Learning. Min Peng, Wu Zhan, Zhihao Zhang, Tong Chen. IEEE International Conference on Automatic Face & Gesture Recognition 2018.
 
